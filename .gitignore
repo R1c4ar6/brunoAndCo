@@ -1,0 +1,6 @@
+# Ignore Agent Plugins and skills
+.hermes/
+.impeccable/
+.idea/
+.opencode/
+
