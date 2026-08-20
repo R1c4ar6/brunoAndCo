@@ -360,7 +360,7 @@ img {
 
 .hero-image {
   flex: 0 0 25rem;
-  height: 27.5rem;
+  height: 52vh;
   border-radius: var(--radius-xl);
   overflow: hidden;
 }
@@ -1040,7 +1040,7 @@ img {
   }
 
   .hero-image {
-    flex: none;
+    flex: fit-content;
     width: 100%;
     max-width: 27.5rem;
     height: 21.25rem;
@@ -1052,7 +1052,7 @@ img {
   }
 
   .about-image {
-    flex: none;
+    flex: fit-content;
     width: 100%;
     max-width: 27.5rem;
     height: 21.25rem;
